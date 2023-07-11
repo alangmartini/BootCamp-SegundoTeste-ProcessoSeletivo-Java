@@ -18,7 +18,7 @@ Para rodar, siga os passos abaixo:
 
 1. Clone o repositório
    ```sh
-   git clone https://github.com/your_username_/SegundoTeste.git
+     git clone git@github.com:alangmartini/BootCamp-TerceiroTeste-API-ProcessoSeletivo-Java.git
    ```
    
 2. Abra na IDE
